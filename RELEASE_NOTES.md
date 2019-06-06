@@ -2,6 +2,7 @@
 - New Features
   - `ResultIterable<T>.map(Function<T, U>)` returns a `ResultIterable<U>` with elements transformed
     using the given mapper function.
+  - `StatementExceptions` configuration class lets you configure generated exception message length
 
 # 3.8.2
 - Improvements
